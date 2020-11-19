@@ -1,2 +1,2 @@
 # Firebase-Functions
-Getting started with firebase functions
+Getting started with firebase cloud functions
